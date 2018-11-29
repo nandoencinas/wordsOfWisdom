@@ -1,2 +1,2 @@
-# wordsOfWisdom
-playing around with a repository
+# Words Of Wisdom
+Songs that become classics. 
