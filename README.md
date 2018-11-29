@@ -1,2 +1,2 @@
-# Words Of Wisdom
+# Words of wisdom
 Songs that become classics. 
